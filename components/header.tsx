@@ -11,10 +11,7 @@ const Header: React.FC = () => (
             <Link href="/" className="text-gray-500 hover:text-pink-700">
               Home
             </Link>
-            <Link href="/about-us" className="text-gray-500 hover:text-pink-700">
-              About us
-            </Link>
-            <Link href="/blog" className="text-gray-500 hover:text-pink-700">
+            <Link href="https://codeblogx.000webhostapp.com/" className="text-gray-500 hover:text-pink-700">
               BlogX 
             </Link>
           </div>
