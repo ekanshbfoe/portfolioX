@@ -14,6 +14,9 @@ const Header: React.FC = () => (
             <Link href="https://codeblogx.000webhostapp.com/" className="text-gray-500 hover:text-pink-700">
               BlogX 
             </Link>
+            <Link href="https://codegiver.vercel.app/" className="text-gray-500 hover:text-pink-700">
+              Free Code 
+            </Link>
           </div>
         </div>
         <Link
